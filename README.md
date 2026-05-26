@@ -13,12 +13,6 @@ This chatbot retrieves relevant internal policy sections and generates an operat
 - Business operations workflow support
 - Enterprise AI assistant positioning
 
-## LinkedIn Post Hook
-Built an AI operations chatbot that answers employee questions from internal SOPs and policy documents.
-
-## Fiverr Gig Title
-I will build a custom AI chatbot for your business documents, SOPs, and internal knowledge base.
-
 ## Run
 ```bash
 pip install -r requirements.txt
