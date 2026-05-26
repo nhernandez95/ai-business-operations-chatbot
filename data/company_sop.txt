@@ -1,0 +1,14 @@
+Vendor Onboarding Policy:
+All new vendors must submit a W-9, banking information, point of contact, insurance documentation, and signed service agreement. Finance reviews payment terms before approval.
+
+Refund Policy:
+Customer refunds must be reviewed within 3 business days. Refunds over $1,000 require manager approval and supporting documentation.
+
+Weekly KPI Reporting:
+Operations teams must submit weekly KPIs every Friday by 3 PM. Reports must include revenue, open issues, completed work, SLA exceptions, and risk notes.
+
+Data Quality Process:
+Data pipelines must include row count checks, duplicate detection, null validation, and reconciliation against source system totals before production release.
+
+Incident Escalation:
+Critical incidents affecting customer reporting must be escalated to the engineering lead within 30 minutes. Root cause analysis must be documented within 48 hours.
