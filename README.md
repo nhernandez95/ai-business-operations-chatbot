@@ -4,6 +4,9 @@ An enterprise-style AI assistant prototype designed to help teams search interna
 
 Built with Streamlit and scikit-learn, this project demonstrates how organizations can transform static operational documentation into an interactive internal knowledge assistant.
 
+## Use Case Diagram
+![Diagram](images/mermaid-diagram.png)
+
 ---
 
 # 🚀 Features
