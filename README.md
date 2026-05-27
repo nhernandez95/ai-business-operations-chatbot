@@ -124,15 +124,15 @@ The project demonstrates the foundation of a Retrieval-Augmented Generation (RAG
 
 ## Chatbot Images
 
-![Dashboard1](images/Dashboard1)
+![Dashboard1](images/Dashboard1.png)
 
-![Dashboard2](images/Dashboard2)
+![Dashboard2](images/Dashboard2.png)
 
-![Dashboard3](images/Dashboard3)
+![Dashboard3](images/Dashboard3.png)
 
-![Dashboard4](images/Dashboard4)
+![Dashboard4](images/Dashboard4.png)
 
-![Dashboard5](images/Dashboard5)
+![Dashboard5](images/Dashboard5.png)
 
 
 ## Run
